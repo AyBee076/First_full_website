@@ -101,3 +101,5 @@ sr.reveal('.contact__dam-1', { delay: 1400, distance: 0, rotate: { z: 45 } })
 sr.reveal('.contact__dam-2', { delay: 1600, distance: 0, rotate: { z: 45 } })
 sr.reveal('.contact__dam-3', { delay: 1800, distance: 0, rotate: { z: 45 } })
 sr.reveal('.contact__dam-4', { delay: 2000, distance: 0, rotate: { z: 45 } })
+
+// ADD THIS TO TEST GIT VERSION 2 
